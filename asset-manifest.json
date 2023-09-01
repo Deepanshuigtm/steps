@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deepanshuigtm/steps.git/static/css/main.29b0e223.css",
+    "main.js": "/Deepanshuigtm/steps.git/static/js/main.3642b4ca.js",
+    "index.html": "/Deepanshuigtm/steps.git/index.html",
+    "main.29b0e223.css.map": "/Deepanshuigtm/steps.git/static/css/main.29b0e223.css.map",
+    "main.3642b4ca.js.map": "/Deepanshuigtm/steps.git/static/js/main.3642b4ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b0e223.css",
+    "static/js/main.3642b4ca.js"
+  ]
+}
